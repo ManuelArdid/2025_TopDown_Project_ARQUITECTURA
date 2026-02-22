@@ -1,0 +1,1 @@
+Si la opción de Support UV provoca crasheos del editor, desactivarlo.
