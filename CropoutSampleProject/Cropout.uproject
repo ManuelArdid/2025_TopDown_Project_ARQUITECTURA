@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.5",
+	"EngineAssociation": "5.7",
 	"Category": "Samples",
 	"Description": "",
 	"Plugins": [
@@ -148,6 +148,10 @@
 		},
 		{
 			"Name": "AudioModulation",
+			"Enabled": true
+		},
+		{
+			"Name": "Volumetrics",
 			"Enabled": true
 		}
 	],
